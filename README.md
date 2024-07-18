@@ -1,8 +1,5 @@
 # Employee-Management-System
 
-<br/>
-<br/>
-<br/>
 This project is used for managing the employee’s details, where you can perform CURD operations, i.e add, update, retrieve and delete the employee’s details. 
 <br/>
 <br/>
@@ -24,7 +21,6 @@ In manage Employees you can add employee, update as well as delete the employee 
 <br/>
 While adding and updating the employee’s details following criteria should be considered:
 <br/>
-
 Emp id should be different of all the employees.
 <br/>
 Mobile numbers should be different for all the employees.
