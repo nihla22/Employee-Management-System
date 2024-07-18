@@ -6,8 +6,8 @@ This project is used for managing the employee’s details, where you can perfor
 Django framework is used in the backend for managing the data and storing the data in the database (d3sqlite), for developing the frontend Reactjs is used which creates a single page application, which means that the content on the web pages would change without the page getting reload. 
 <br/>
 <br/>
-First Login, only admin can login using the following details, 
-Username-admin 
+First Login, only admin can login using the following details, <br/>
+Username-admin <br/>
 Password-admin123 
 <br/>
 <br/>
