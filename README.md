@@ -7,8 +7,8 @@ Django framework is used in the backend for managing the data and storing the da
 <br/>
 <br/>
 First Login, only admin can login using the following details, <br/>
-Username-admin <br/>
-Password-admin123 
+<b>Username-admin</b> <br/>
+<b>Password-admin123</b> 
 <br/>
 <br/>
 
